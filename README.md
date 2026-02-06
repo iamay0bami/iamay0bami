@@ -5,12 +5,12 @@
 </p>
 
 ### 🛠️ About Me
-[cite_start]**DevOps Engineer** specializing in architecting production-grade, cloud-native environments[cite: 86]. [cite_start]I focus on **Kubernetes orchestration**, **Infrastructure as Code (Terraform, Ansible)**, and **GitOps (Argo CD)**[cite: 87, 88].
+**DevOps Engineer** specializing in architecting production-grade, cloud-native environments. I focus on **Kubernetes orchestration**, **Infrastructure as Code (Terraform, Ansible)**, and **GitOps (Argo CD)**.
 
-- [cite_start]🌍 Based in Nigeria.
-- 🎓 B.Eng. [cite_start]Computer Engineering (First-Class) from Bells University of Technology[cite: 130].
-- [cite_start]🔭 Currently engineering automated CI/CD pipelines at **Leadway Assurance**[cite: 91].
-- [cite_start]🌱 Passionate about full-stack observability and high availability systems[cite: 88].
+- 🌍 Based in Nigeria.
+- 🎓 B.Eng. Computer Engineering (First-Class) from Bells University of Technology.
+- 🔭 Currently engineering automated CI/CD pipelines at **Leadway Assurance**.
+- 🌱 Passionate about full-stack observability and high availability systems.
 
 ---
 
