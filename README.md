@@ -34,15 +34,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamayObami&show_icons=true&theme=tokyonight&count_private=true" alt="Ayobami's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamayObami&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayobami's GitHub Stats" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-* [cite_start]**[End-to-End GitOps on AKS](https://github.com/iamayObami/k8s-votinapp-cicd)**: Full GitOps workflow for a 3-tier microservice app using Terraform, Azure DevOps, and ArgoCD[cite: 114, 116].
-* [cite_start]**[DevSecOps Pipeline](https://github.com/iamayObami/Boardgame-Project)**: CI/CD transition with Jenkins, SonarQube quality gates, and Trivy security scanning[cite: 108, 110, 111].
-* [cite_start]**[Automated Infrastructure](https://github.com/iamayObami/cy-challenge-phase2)**: "One-click" deployment using Terraform to provision cloud resources and Ansible for configuration[cite: 103, 107].
+* **[End-to-End GitOps on AKS](https://github.com/iamayObami/k8s-votinapp-cicd)**: Full GitOps workflow for a 3-tier microservice app using Terraform, Azure DevOps, and ArgoCD.
+* **[DevSecOps Pipeline](https://github.com/iamayObami/Boardgame-Project)**: CI/CD transition with Jenkins, SonarQube quality gates, and Trivy security scanning.
+* **[Automated Infrastructure](https://github.com/iamayObami/cy-challenge-phase2)**: "One-click" deployment using Terraform to provision cloud resources and Ansible for configuration.
 
 ---
 
